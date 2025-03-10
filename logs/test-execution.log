@@ -1,0 +1,102 @@
+2025-03-10 00:21:09 [main] INFO  utility.LoggerUtil - Starting scenario: User logs in using credentials from Excel
+2025-03-10 00:21:16 [main] INFO  utility.LoggerUtil - Navigating to login page
+2025-03-10 00:21:17 [main] INFO  utility.LoggerUtil - Ending scenario: User logs in using credentials from Excel
+2025-03-10 00:21:18 [main] INFO  utility.LoggerUtil - Starting scenario: Registering a new user
+2025-03-10 00:21:23 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop registration page
+2025-03-10 00:21:24 [main] INFO  utility.LoggerUtil - Entering user details
+2025-03-10 00:21:25 [main] INFO  utility.LoggerUtil - Clicking register button
+2025-03-10 00:21:27 [main] INFO  utility.LoggerUtil - Verifying successful registration
+2025-03-10 00:21:27 [main] INFO  utility.LoggerUtil - Ending scenario: Registering a new user
+2025-03-10 00:21:27 [main] INFO  utility.LoggerUtil - Starting scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 00:21:32 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop homepage
+2025-03-10 00:21:32 [main] INFO  utility.LoggerUtil - Clicking on Computers link
+2025-03-10 00:21:34 [main] INFO  utility.LoggerUtil - Clicking on Desktops category
+2025-03-10 00:21:35 [main] INFO  utility.LoggerUtil - Selecting the first desktop
+2025-03-10 00:21:35 [main] INFO  utility.LoggerUtil - Adding the desktop to the cart
+2025-03-10 00:21:37 [main] INFO  utility.LoggerUtil - Navigating to cart and proceeding to checkout
+2025-03-10 00:21:38 [main] INFO  utility.LoggerUtil - Ending scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 00:24:16 [main] INFO  utility.LoggerUtil - Starting scenario: User logs in using credentials from Excel
+2025-03-10 00:24:22 [main] INFO  utility.LoggerUtil - Navigating to login page
+2025-03-10 00:24:24 [main] INFO  utility.LoggerUtil - Ending scenario: User logs in using credentials from Excel
+2025-03-10 00:24:25 [main] INFO  utility.LoggerUtil - Starting scenario: Registering a new user
+2025-03-10 00:24:30 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop registration page
+2025-03-10 00:24:31 [main] INFO  utility.LoggerUtil - Entering user details
+2025-03-10 00:24:32 [main] INFO  utility.LoggerUtil - Clicking register button
+2025-03-10 00:24:33 [main] INFO  utility.LoggerUtil - Verifying successful registration
+2025-03-10 00:24:33 [main] INFO  utility.LoggerUtil - Ending scenario: Registering a new user
+2025-03-10 00:24:34 [main] INFO  utility.LoggerUtil - Starting scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 00:24:39 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop homepage
+2025-03-10 00:24:39 [main] INFO  utility.LoggerUtil - Clicking on Computers link
+2025-03-10 00:24:40 [main] INFO  utility.LoggerUtil - Clicking on Desktops category
+2025-03-10 00:24:41 [main] INFO  utility.LoggerUtil - Selecting the first desktop
+2025-03-10 00:24:41 [main] INFO  utility.LoggerUtil - Adding the desktop to the cart
+2025-03-10 00:24:42 [main] INFO  utility.LoggerUtil - Navigating to cart and proceeding to checkout
+2025-03-10 00:24:43 [main] INFO  utility.LoggerUtil - Ending scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 01:50:25 [main] INFO  utility.LoggerUtil - Starting scenario: User logs in using credentials from Excel
+2025-03-10 01:50:32 [main] INFO  utility.LoggerUtil - Navigating to login page
+2025-03-10 01:50:34 [main] INFO  utility.LoggerUtil - Ending scenario: User logs in using credentials from Excel
+2025-03-10 01:50:35 [main] INFO  utility.LoggerUtil - Starting scenario: Registering a new user
+2025-03-10 01:50:42 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop registration page
+2025-03-10 01:50:44 [main] INFO  utility.LoggerUtil - Entering user details
+2025-03-10 01:50:45 [main] INFO  utility.LoggerUtil - Clicking register button
+2025-03-10 01:50:46 [main] INFO  utility.LoggerUtil - Verifying successful registration
+2025-03-10 01:50:46 [main] INFO  utility.LoggerUtil - Ending scenario: Registering a new user
+2025-03-10 01:50:47 [main] INFO  utility.LoggerUtil - Starting scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 01:50:53 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop homepage
+2025-03-10 01:50:53 [main] INFO  utility.LoggerUtil - Clicking on Computers link
+2025-03-10 01:50:54 [main] INFO  utility.LoggerUtil - Clicking on Desktops category
+2025-03-10 01:50:55 [main] INFO  utility.LoggerUtil - Selecting the first desktop
+2025-03-10 01:50:55 [main] INFO  utility.LoggerUtil - Adding the desktop to the cart
+2025-03-10 01:50:58 [main] INFO  utility.LoggerUtil - Navigating to cart and proceeding to checkout
+2025-03-10 01:50:59 [main] INFO  utility.LoggerUtil - Ending scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 01:53:56 [main] INFO  utility.LoggerUtil - Starting scenario: User logs in using credentials from Excel
+2025-03-10 01:54:03 [main] INFO  utility.LoggerUtil - Navigating to login page
+2025-03-10 01:54:04 [main] INFO  utility.LoggerUtil - Ending scenario: User logs in using credentials from Excel
+2025-03-10 01:54:05 [main] INFO  utility.LoggerUtil - Starting scenario: Registering a new user
+2025-03-10 01:54:10 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop registration page
+2025-03-10 01:54:10 [main] INFO  utility.LoggerUtil - Entering user details
+2025-03-10 01:54:12 [main] INFO  utility.LoggerUtil - Clicking register button
+2025-03-10 01:54:13 [main] INFO  utility.LoggerUtil - Verifying successful registration
+2025-03-10 01:54:13 [main] INFO  utility.LoggerUtil - Ending scenario: Registering a new user
+2025-03-10 01:54:14 [main] INFO  utility.LoggerUtil - Starting scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 01:54:19 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop homepage
+2025-03-10 01:54:19 [main] INFO  utility.LoggerUtil - Clicking on Computers link
+2025-03-10 01:54:19 [main] INFO  utility.LoggerUtil - Clicking on Desktops category
+2025-03-10 01:54:20 [main] INFO  utility.LoggerUtil - Selecting the first desktop
+2025-03-10 01:54:21 [main] INFO  utility.LoggerUtil - Adding the desktop to the cart
+2025-03-10 01:54:22 [main] INFO  utility.LoggerUtil - Navigating to cart and proceeding to checkout
+2025-03-10 01:54:23 [main] INFO  utility.LoggerUtil - Ending scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 02:15:36 [main] INFO  utility.LoggerUtil - Starting scenario: User logs in using credentials from Excel
+2025-03-10 02:15:46 [main] INFO  utility.LoggerUtil - Navigating to login page
+2025-03-10 02:15:48 [main] INFO  utility.LoggerUtil - Ending scenario: User logs in using credentials from Excel
+2025-03-10 02:15:49 [main] INFO  utility.LoggerUtil - Starting scenario: Registering a new user
+2025-03-10 02:15:54 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop registration page
+2025-03-10 02:15:55 [main] INFO  utility.LoggerUtil - Entering user details
+2025-03-10 02:15:56 [main] INFO  utility.LoggerUtil - Clicking register button
+2025-03-10 02:15:57 [main] INFO  utility.LoggerUtil - Verifying successful registration
+2025-03-10 02:15:58 [main] INFO  utility.LoggerUtil - Ending scenario: Registering a new user
+2025-03-10 02:15:58 [main] INFO  utility.LoggerUtil - Starting scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 02:16:04 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop homepage
+2025-03-10 02:16:04 [main] INFO  utility.LoggerUtil - Clicking on Computers link
+2025-03-10 02:16:05 [main] INFO  utility.LoggerUtil - Clicking on Desktops category
+2025-03-10 02:16:06 [main] INFO  utility.LoggerUtil - Selecting the first desktop
+2025-03-10 02:16:06 [main] INFO  utility.LoggerUtil - Adding the desktop to the cart
+2025-03-10 02:16:08 [main] INFO  utility.LoggerUtil - Navigating to cart and proceeding to checkout
+2025-03-10 02:16:09 [main] INFO  utility.LoggerUtil - Ending scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 02:18:32 [main] INFO  utility.LoggerUtil - Starting scenario: User logs in using credentials from Excel
+2025-03-10 02:18:38 [main] INFO  utility.LoggerUtil - Navigating to login page
+2025-03-10 02:18:40 [main] INFO  utility.LoggerUtil - Ending scenario: User logs in using credentials from Excel
+2025-03-10 02:18:41 [main] INFO  utility.LoggerUtil - Starting scenario: Registering a new user
+2025-03-10 02:18:46 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop registration page
+2025-03-10 02:18:47 [main] INFO  utility.LoggerUtil - Entering user details
+2025-03-10 02:18:48 [main] INFO  utility.LoggerUtil - Clicking register button
+2025-03-10 02:18:50 [main] INFO  utility.LoggerUtil - Verifying successful registration
+2025-03-10 02:18:50 [main] INFO  utility.LoggerUtil - Ending scenario: Registering a new user
+2025-03-10 02:18:50 [main] INFO  utility.LoggerUtil - Starting scenario: Purchase a Desktop from Demo Web Shop
+2025-03-10 02:18:55 [main] INFO  utility.LoggerUtil - Navigating to Demo Web Shop homepage
+2025-03-10 02:18:55 [main] INFO  utility.LoggerUtil - Clicking on Computers link
+2025-03-10 02:18:56 [main] INFO  utility.LoggerUtil - Clicking on Desktops category
+2025-03-10 02:18:57 [main] INFO  utility.LoggerUtil - Selecting the first desktop
+2025-03-10 02:18:57 [main] INFO  utility.LoggerUtil - Adding the desktop to the cart
+2025-03-10 02:18:59 [main] INFO  utility.LoggerUtil - Navigating to cart and proceeding to checkout
+2025-03-10 02:19:00 [main] INFO  utility.LoggerUtil - Ending scenario: Purchase a Desktop from Demo Web Shop
