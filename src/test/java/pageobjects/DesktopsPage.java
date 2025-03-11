@@ -10,11 +10,13 @@ public class DesktopsPage {
         this.driver = driver;
     }
 
-    private By firstDesktop = By.xpath("(//input[@value='Add to cart'])[1]");
+    private By firstDesktop = By.xpath("(//div[@class='product-item'])[1]");
+    private By addToCartButton = By.xpath("//input[@value='Add to cart']");
     private By cartLink = By.xpath("//span[@class='cart-label']");
 
     public void selectFirstDesktop() {
         driver.findElement(firstDesktop).click();
+               driver.findElement(addToCartButton).click();
     }
 
     public void goToCart() {

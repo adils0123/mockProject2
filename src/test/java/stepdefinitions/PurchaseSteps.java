@@ -21,7 +21,7 @@ public class PurchaseSteps {
 
     @Given("User is on Demo Web Shop homepage")
     public void user_is_on_demo_web_shop_homepage() {
-        driver = Hooks.driver;
+        driver = Loading.driver;
         driver.get("https://demowebshop.tricentis.com/");
         
         test = ExtentReportManager.createTest("Purchase Test");

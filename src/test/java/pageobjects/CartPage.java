@@ -15,7 +15,7 @@ public class CartPage {
     private By cartButton = By.xpath("//span[@class='cart-label']");
 
     
-    private By checkoutButton = By.xpath("//button[@id='checkout']");
+    private By checkoutButton = By.id("checkout");
 
     
     public void openCart() {
